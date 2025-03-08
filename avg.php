@@ -6,7 +6,7 @@ function srednia_zwykla (a,b)
 }
 
 function srednia_wazona (a,b){
-	return
+	return a teraz tu se zmienie
 }
 ?>
 
