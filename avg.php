@@ -2,7 +2,7 @@
 
 function srednia_zwykla (a,b)
 {
-	return
+	return ala ma kota
 }
 
 function srednia_wazona (a,b){
