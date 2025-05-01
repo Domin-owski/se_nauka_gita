@@ -2,11 +2,11 @@
 
 function srednia_zwykla (a,b)
 {
-	return ala ma kota
+	return ($a + $b) / 2;
 }
 
 function srednia_wazona (a,b){
-	return a teraz tu se zmienie
+	return ($a * 0.7) + ($b * 0.3);
 }
 ?>
 
